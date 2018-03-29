@@ -1,0 +1,20 @@
+#Capstone Project Proposal
+##Indian Match making recommendation system
+*-Priyanka Kadam*
+
+
+**1.What is the problem?**
+Users of online dating sites or matrimony sites are facing information overload. A typical dating site requires users to fill in lengthy questionnaires and matching is based on attributes selected. A typical search in the database either returns no match in the case when the query is too specific or, for general queries, returns a huge amount of profiles. Ranking of the results is difficult and usually requires users to assign weight to each of their requirement. Such aproach is limited especially because different users express the same thing in different words. In the end users end up browsing large amount of irrelevant results.
+
+**2.Who is the client and why do they care about this problem? In other words, what will the client DO or DECIDE based on the analysis that they wouldn’t have otherwise?**
+For this particular project I am focussing on an Indian matrimonial website called Shaadi.com. This analysis will provide the users with most suitable recommendations and address the information abundance problem and ensure the users do not miss out on suitable prospective matches by browsing through large amounts of irrelevant results.
+
+**3.What data is being used  for this? How will this data be  acquired?**
+Shaadi.com is the world's largest online matchmaking site founded with one simple objective - to provide a superior matchmaking experience to Indians all over the world. Shaadi.com has redefined the way people meet for marriage and has touched the lives of 3.5 crore (35 million) people all over the world and helped over 5 Million people find their matches. 
+Web scraping techniques will be used to extract required data.Use of RSelenium package is an important part of the scraping.
+
+**4.In brief, outline approach to solving this problem (knowing that this might change later).**
+Data Extraction, Data Wrangling, Exploratory data analysis and then application of appropriate Machine learning techniques to build the recommendation system
+
+**5.What are the deliverables? Typically, this would include code, along with a paper and/or a slide deck.**
+Deliverables will include code for the extraction, wrangling and machine learning technique application to solve the problem. Also a presentation will be included with plots and graphs of the analysis.
